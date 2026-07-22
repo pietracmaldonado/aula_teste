@@ -37,4 +37,4 @@ function boasVindas(nome) {
 | html | Sim | Ativo |
 | Markdown | sim | Ativo |
 
-![PC](pc.jpg)
+![PC](https://cdn.dooca.store/180/products/pc-gamer-gtx-1050-i5-10400f-edicao-especial-completo-kit-normal.jpg?v=1686147800000&webp=0))
