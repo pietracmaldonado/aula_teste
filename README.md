@@ -22,6 +22,7 @@ Exemplo de uso da estilizaçâo em tachado ~~Palavra de exemplo* utiliza-se~~
 
 
 Acesse o [google](https//www.google.com.br)
+
 ![logo](https://cdn.pixabay.com/photo/2025/05/24/12/40/whale-9619752_640.png)
 
 Exemplo de trecho de código:
@@ -36,5 +37,6 @@ function boasVindas(nome) {
 | :--- |:--- |:--- |
 | html | Sim | Ativo |
 | Markdown | sim | Ativo |
+
 
 ![PC](https://cdn.dooca.store/180/products/pc-gamer-gtx-1050-i5-10400f-edicao-especial-completo-kit-normal.jpg?v=1686147800000&webp=0))
